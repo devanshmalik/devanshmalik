@@ -4,7 +4,7 @@ I am a Data Scientist who is passionate about the intersection of data analytics
 
 ## Recent Projects
 Some of my recent work includes...
-### Emissions Oracle 
+### Greenhouse Gas (GHG) Emissions Oracle 
 - ⚡ Forecast and visualize US Electricity Sector generation and associated GHG emissions in a web app
 - 🔌 [Explore the app online](https://share.streamlit.io/devanshmalik/emissions-oracle/src/streamlit_app.py) through Streamlit cloud
 - 💻 Check out the [project on GitHub](https://github.com/devanshmalik/emissions-oracle)
