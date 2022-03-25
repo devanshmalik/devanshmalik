@@ -3,7 +3,7 @@
 I am a Data Scientist who is passionate about the intersection of data analytics and clean energy transition initiatives. I enjoy working with the Python data science stack and have experience working with it in both industry and independent projects. 
 
 ## Recent Projects
-Some of my recent projects include...
+Some of my recent work includes...
 ### Emissions Oracle 
 - ⚡ Forecast and visualize US Electricity Sector generation and associated GHG emissions in a web app
 - 🔌 [Explore the app online](https://share.streamlit.io/devanshmalik/emissions-oracle/src/streamlit_app.py) through Streamlit cloud
