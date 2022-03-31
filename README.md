@@ -10,7 +10,7 @@ Some of my recent work includes...
 - 💻 Check out the [project on GitHub](https://github.com/devanshmalik/emissions-oracle)
 
 ### Kaggle Zillow Competition
-- 📖 Inpdependent project to explore end-to-end Machine Learning workflow in-depth
+- 📖 Independent project to explore end-to-end Machine Learning workflow in-depth
 - 🏆 Kaggle Bronze Medal notebook, Top 250 Public Score 
 - 💻 Check out the [project on GitHub](https://github.com/devanshmalik/kaggle-zillow-competition)
  
